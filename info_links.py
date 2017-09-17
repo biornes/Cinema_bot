@@ -1,6 +1,6 @@
-import requests
-from bs4 import BeautifulSoup
-from multiprocessing import Pool
+#import requests
+#from bs4 import BeautifulSoup
+#from multiprocessing import Pool
 import pickle
 #import Info
 import random
