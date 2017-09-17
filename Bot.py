@@ -4,9 +4,9 @@ import misk
 from info_links import enter
 from time import sleep
 from telebot import types
-from bs4 import BeautifulSoup
-import random
-import os
+#from bs4 import BeautifulSoup
+#import random
+#import os
 import telebot
 #type_1 = 'аниме'
 type_2 = 'биография'
