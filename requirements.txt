@@ -4,4 +4,3 @@ idna==2.6
 requests==2.18.4
 urllib3==1.22
 telebot==0.0.3
-pyTelegramBotAPI==3.2.0
